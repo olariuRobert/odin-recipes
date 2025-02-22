@@ -1,0 +1,25 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+button {
+    background-color: rgb(223, 223, 223);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(223, 223, 223);
+    margin: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    width: 150px;
+    text-align: left;
+}
+
+button:hover {
+    background-color: rgb(190, 190, 190);
+    border: 1px solid rgb(190, 190, 190);
+}
